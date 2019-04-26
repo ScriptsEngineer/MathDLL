@@ -33,3 +33,4 @@ extern "C" MATHLIBRARY_API unsigned long long fibonacci_current();
 
 // Get the position of the current value in the sequence
 extern "C" MATHLIBRARY_API unsigned fibonacci_index();
+
