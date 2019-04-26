@@ -1,4 +1,4 @@
-# MathLibrary
+# MathDLL
 Basic library to export DLL in C++
 
 ## Source
